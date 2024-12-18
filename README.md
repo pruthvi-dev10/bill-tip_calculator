@@ -1,0 +1,1 @@
+This is a Tip Calculator that helps users split a total bill among multiple people, including the option to add a tip. Users can select a fixed tip percentage, customize their tip, or even skip the tip entirely. The calculator displays the amount each person should pay, considering the tip and the number of people involved.
